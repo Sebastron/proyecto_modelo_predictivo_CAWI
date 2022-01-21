@@ -1,0 +1,4 @@
+Datasets_resultantes/Dataset_construido_Envíos_CR.csv filter=lfs diff=lfs merge=lfs -text
+Datasets_resultantes/Dataset_construido_VF6.csv filter=lfs diff=lfs merge=lfs -text
+Datasets_resultantes/Dataset_de_prueba_oficial_1.csv filter=lfs diff=lfs merge=lfs -text
+Datasets_resultantes/Dataset_de_prueba_oficial_2.csv filter=lfs diff=lfs merge=lfs -text
