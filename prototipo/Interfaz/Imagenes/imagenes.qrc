@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="principal">
+    <file>logo-SendinBlue-1.png</file>
+    <file>sendinblue-logo-vector.png</file>
+  </qresource>
+</RCC>
