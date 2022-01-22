@@ -21,5 +21,5 @@ de salidas, los cuales estos se encuentra en dos carpetas.
 1) En la misma carpeta del prototipo, "/Mejores modelos"
 2) En la carpeta del proyecto,
    "/Codigos de fuente/Generación modelos RNA/Modelos/Modelos de dos salidas"
-Como de preferencia, eliga el archivo "Dataset1.csv" y "Dataset2.csv" para 
-probar el prototipo.
+Como de preferencia, eliga el archivo "Dataset_de_prueba_oficial_1.csv" y 
+"Dataset_de_prueba_oficial_2.csv" para probar el prototipo.
