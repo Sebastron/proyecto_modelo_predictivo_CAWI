@@ -20,5 +20,5 @@ _La interfaz gráfica se encuentra en la carpeta **"prototipo"**, para probar es
 
 ## Autor del proyecto ✒️
 
-* **Sebastián Garrido Valenzuela** - [Sebastron](https://github.com/Sebastron)
+* **Sebastián Garrido Valenzuela** - [Sebastron](https://cl.linkedin.com/in/sebastian-alejandro-garrido-valenzuela-a16120204)
 
