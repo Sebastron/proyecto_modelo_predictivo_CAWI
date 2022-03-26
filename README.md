@@ -13,7 +13,7 @@ _La interfaz gráfica se encuentra en la carpeta **"prototipo"**, para probar es
 * [Python 3.8.2](https://www.python.org/) - Lenguaje de programación
 * [Google Colaboratory (Colab)](https://colab.research.google.com/) - Entorno de desarrollo, análisis de datos y ejecución en la nube de Google
 * [Anaconda](https://www.anaconda.com/products/individual) - Entorno de desarrollo, análisis de datos y ejecución en local 
-* [Microsoft Word, Excel y Power Point 365](https://www.office.com/) - Herramientas para documentación y generación de gráficos y tablas, desarrollado por Microsoft.
+* [Microsoft Word, Excel y Power Point 365](https://www.office.com/) - Herramientas para documentación, generación de gráficos y tablas, desarrollado por Microsoft.
 * [Google Sheets](https://www.google.com/intl/es-419_cl/sheets/about/) - Hoja de cálculo desarrollada por Google.
 * [Qt Designer](https://build-system.fman.io/qt-designer-download) - Herramienta desarrollo de interfaz gráfica, para aplicación de escritorio
 
