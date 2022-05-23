@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-**_Modelo Predictivo de Contactabilidad CAWI, mediante redes neuronales_**
+# Modelo Predictivo de Contactabilidad CAWI, mediante redes neuronales
 
 ## Descripción 🚀
 
